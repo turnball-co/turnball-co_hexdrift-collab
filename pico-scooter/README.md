@@ -1,0 +1,13 @@
+# Whart is this?
+
+This location is serving a project that is underway involving a Razor Metro Scooter, numerous improvements that have been undertaken following issues such as the inevitable death of the Lead Acid Batteries that is a known challenge for this particular model of Scooter.  
+
+This is the current C codebase that is being operated upon to work the "dashboard" console of sorts that is driven from a Raspberry Pico controller -- making use of an added Hall Sensor for purposes of introducing a speedometer, and otherwise seeking to make the Razor Scooter into a more street legal ride.  This has included the replacement of the Lead Acid Batteries with a Lithium Ion Battery that has shot the capabilities of the ride to whole new heights and resulted in the need to replace/update the motor and speed controller. 
+
+Upon the introduction of the 48v battery (replacing the 36v set of 3 batteries) a new 2000w motor was acquired via Alibaba, which came along with a kit including a new speed module/controller, new throttle, key-activated on/off switch and other important elements which have continued the creeping effort to turn the ride into a more street suitable ride. 
+
+Lately as cdan be seen in the `main.c` codebase, the introduction of turn signals, driven by a PS2 thumb knob, that controls a intended turn signal for use and informing of other operators on the road as we pursue the ends of making the system more suitable and alignbed with motorcycle operability.  As of right now the scooter is still consistent with Colorado 50cc and less engined scooter/devices which do not require/necessitate insurance or any active motorcycle accrededations however that is my ultimate intention as I am currently govenored at 18MPH however my current configuration is rated at 55mph given the motor, battery upgrades, gearing and other elements. 
+
+## Please ride responsibly
+
+As this project is underway it feels as though I would be remiss if I didn't also suggest that everyone should be operating their vehicles responsibilty and safely.  As such, it is recommended that you wear all necessary and possible safety equipment as you might be operating your own scooter/ebike locally.  Please also be aware of your local municiplity laws and regulations as it is likely your rules and regulatrions would be quite different than those of the State of Colorado, and Boulder County that I am operating this scooter within.
