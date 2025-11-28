@@ -5,4 +5,6 @@ Its is hoped that by sharing these resources via Github, especially following Op
 
 Through the sharing of these projects we're hopeful that we might encourage others to take the initiative to improve their own world, products that they've purchased or created -- and deliver us all to a more productive, happy and enriched lives. Please ask questions wherever you might have them, offer suggestions or feedback wherever you feel so moved and we look forward to seeing you out there in the www!
 
-## pico-scooter
+## README.md Files May be found in Project Folders
+
+Various project folders may contain README.md files that offer further detail as to what each folder/section is housing and its intended purpose.  If you should find any of this information helpful for your own projects and interests then you're welcome to use the materials contained therein.  
