@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "stdlib.h": "c",
+    "adc.h": "c",
+    "gpio.h": "c",
+    "pico.h": "c",
+    "i2c.h": "c",
+    "timer.h": "c",
+    "uart.h": "c",
+    "io_bank0.h": "c",
+    "resets.h": "c",
+    "intctrl.h": "c",
+    "irq.h": "c",
+    "stdio.h": "c",
+    "platform_defs.h": "c"
+  }
+}
