@@ -1,4 +1,4 @@
-# Whart is this?
+# Pico Scooter
 
 This location is serving a project that is underway involving a Razor Metro Scooter, numerous improvements that have been undertaken following issues such as the inevitable death of the Lead Acid Batteries that is a known challenge for this particular model of Scooter.  
 
@@ -8,6 +8,6 @@ Upon the introduction of the 48v battery (replacing the 36v set of 3 batteries) 
 
 Lately as cdan be seen in the `main.c` codebase, the introduction of turn signals, driven by a PS2 thumb knob, that controls a intended turn signal for use and informing of other operators on the road as we pursue the ends of making the system more suitable and alignbed with motorcycle operability.  As of right now the scooter is still consistent with Colorado 50cc and less engined scooter/devices which do not require/necessitate insurance or any active motorcycle accrededations however that is my ultimate intention as I am currently govenored at 18MPH however my current configuration is rated at 55mph given the motor, battery upgrades, gearing and other elements. 
 
-## Please ride responsibly
+## Please Ride Responsibly
 
 As this project is underway it feels as though I would be remiss if I didn't also suggest that everyone should be operating their vehicles responsibilty and safely.  As such, it is recommended that you wear all necessary and possible safety equipment as you might be operating your own scooter/ebike locally.  Please also be aware of your local municiplity laws and regulations as it is likely your rules and regulatrions would be quite different than those of the State of Colorado, and Boulder County that I am operating this scooter within.

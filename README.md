@@ -8,3 +8,8 @@ Through the sharing of these projects we're hopeful that we might encourage othe
 ## README.md Files May be found in Project Folders
 
 Various project folders may contain README.md files that offer further detail as to what each folder/section is housing and its intended purpose.  If you should find any of this information helpful for your own projects and interests then you're welcome to use the materials contained therein.  
+
+## Contact Welcome
+
+If you have any questions, suggestions or generally just wish to say hello, you're encouraged to reach out at [ben@turnball.co](mailto:ben@turnball.co) and I will respond to any inquiries I receive.  You may also find me at [turnball on LinkedIn](https://www.linkedin.com/in/turnball) as I am always open to connecting and interested in any potential employment or project opportunites should you wish to discuss anything of the sort.  
+ 
