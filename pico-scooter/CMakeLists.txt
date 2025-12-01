@@ -14,7 +14,7 @@ target_link_libraries(scooter
     hardware_gpio
     hardware_adc
     hardware_timer
-    hardware_i2c   # <-- this is the missing one
+    hardware_i2c
 )
 
 pico_add_extra_outputs(scooter)
